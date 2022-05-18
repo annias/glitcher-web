@@ -1,3 +1,7 @@
+I'm going to play around with Rap2h's procedural breakcore glitch machine and see what we can come up with! Updates to follow.
+
+
+
 # Glitcher web
 
 Upload a WAV loop, get a glitched broken new WAV.
